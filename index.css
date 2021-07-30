@@ -1,0 +1,130 @@
+*{
+
+    padding:0px;
+    margin:0px;
+}
+.outer{
+
+     height: 100%;
+     width:100%;
+     border: 1px solid black;
+}
+.log-left{
+     height:100%;
+     width: 100%;
+     border:1px solid black;
+     background-color: rgb(195, 211, 123);
+
+}
+#user{
+
+     height: 30px;
+     width:370px;
+     border-radius: 15px;
+     font-weight: bolder;
+     border: 1px solid black;
+     box-shadow: 3px 4px 4px black;
+     
+}
+#pass{
+
+     height: 30px;
+     width:370px;
+     border-radius: 15px;
+     font-weight: bolder;
+     border: 1px solid black;
+     box-shadow: 3px 4px 4px black;
+     
+}
+.form-handle{
+margin-top:200px ;
+margin-left: 460px;
+
+}
+h2{
+     font-family: Arial;
+     
+}
+#submit1{
+     height: 40px;
+     width:270px;
+     border-radius: 15px;
+     font-weight: bolder;
+     margin-left:40px;
+     border: 1px solid black;
+     font-size: 20px;
+     box-shadow: 3px 4px 4px black;
+
+}
+#submit1:hover{
+
+     background-color: black;
+     color:white;
+}
+label{
+
+     font-size: 20px;
+}
+.inner-sec{
+
+     height:100%;
+     width:100%;
+     border: 1px solid black;
+     display:none;
+}
+.nav{
+
+     height:100%;
+     width:30%;
+     border: 1px solid black; 
+     background-color: wheat;
+     float: left;
+    
+}
+#btn1{
+
+     height: 30px;
+     width:180px;
+     border-radius: 15px;
+     font-weight: bolder;
+     border: 1px solid black;
+     box-shadow: 3px 4px 4px black;
+     margin-top:170px;
+     margin-left:100px;  
+}
+.form{
+
+
+     height:100% ;
+     width:100%;
+     border: 1px solid black;
+     background-color: pink;
+}
+.form{
+     display:none;
+}
+.show_data{
+
+     display:none;
+}
+.update1{
+
+     display:none;
+     border: 1px solid black;
+     height: 400px;
+     width:100%;
+     background-color:rgb(66, 50, 55);
+     color: aliceblue;
+     margin: auto;
+}
+#btn2{
+     height: 30px;
+     width:180px;
+     border-radius: 15px;
+     font-weight: bolder;
+     border: 1px solid black;
+     box-shadow: 3px 4px 4px black; 
+      margin-top:190px;
+      margin-left:100px;
+
+}
